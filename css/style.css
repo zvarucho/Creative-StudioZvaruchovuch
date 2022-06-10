@@ -370,7 +370,7 @@ article figure{
 }
 .list li{
     list-style: none;
-    background:url(file:///D:/HTML/Create%20Studio/image/sep02.gif) no-repeat 0 3px;
+    background:url(image/sep02.gif) no-repeat 0 3px;
 	line-height:14px;
 	padding:0px 0 14px 29px;
 }
