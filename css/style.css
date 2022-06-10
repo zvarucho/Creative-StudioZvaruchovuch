@@ -370,7 +370,7 @@ article figure{
 }
 .list li{
     list-style: none;
-    background:url(image/sep02.gif) no-repeat 0 3px;
+    background:url(../image/sep02.gif) no-repeat 0 3px;
 	line-height:14px;
 	padding:0px 0 14px 29px;
 }
@@ -386,9 +386,9 @@ article figure{
 }
 
 .slaid_show{
-    padding: 15px; /* Расстояние от картинки до рамки */
-    margin-right: 10px; /* Отступ справа */
-    margin-bottom: 10px; /* Отступ снизу */
+    padding: 15px; 
+    margin-right: 10px; 
+    margin-bottom: 10px; 
 }
 
 
